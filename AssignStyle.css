@@ -1,0 +1,32 @@
+
+img {
+	align-self: center;
+	border-radius: 25px;
+	border: 3px solid black;
+}
+.id {
+	border-radius: 100px;
+}
+body {
+	text-align: center;
+	background-color: rgb(40,110,150);
+	color: rgb(237,237,237);
+	font-family: verdana;
+}
+a {
+	color: rgb(204,201,201);
+	padding-right: 15px;
+}
+nav {
+	background-color: black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.info {
+	background-color: rgba(255,255,255,.4);
+	padding-bottom: 15px;
+}
+hr {
+	width: 410px;
+	border-color: rgb(48,68,86);
+}
